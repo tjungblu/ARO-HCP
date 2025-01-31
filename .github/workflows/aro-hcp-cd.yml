@@ -71,7 +71,7 @@
 
             # Manage ACR
             make acr acr-svc-cfg acr-ocp-cfg
-            
+
             # Setup managed identity roles
             make managed-identity-roles
 
